@@ -11,11 +11,6 @@
 ```
 
 
-## 모델 사용 방법
-```bash
-    CUDA_VISIBLE_DEVICES='0' python training_emotion.py --batch_size 8 --epochs 30
-```
-
 ## Download
 
 ### Models
